@@ -1,4 +1,4 @@
-# aoa_wiring_schematics
+# AoA Sensor Wiring Schematics
 This is the repository for wiring schematics for my homemade, 3D printable Angle of Attack Sensor.
 
 # Disclaimer:
